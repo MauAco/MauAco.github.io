@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Mauricio Acosta"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Computational Scientist working in Medical Physics with a background in Data Science, Physics, and Biomedical Engineering."
+  location         : "Miami, Fl"
   email            :
   links:
     - label: "Email"
