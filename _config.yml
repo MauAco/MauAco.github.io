@@ -131,7 +131,7 @@ author:
 
 # Site Header
 header:
-  image: /assets/images/header.png
+  overlay_image: /assets/images/header.png
   caption: "Generated with AI"
 
 # Site Footer
